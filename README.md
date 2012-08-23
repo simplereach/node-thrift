@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/simplereach/node-thrift.png)](http://travis-ci.org/simplereach/node-thrift)
 # node-thrift
 
 Thrift protocol implementation for nodejs. As of version 0.0.1, the basic
