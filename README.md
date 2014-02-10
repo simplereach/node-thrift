@@ -11,9 +11,13 @@ changed in Cassandra 0.6.x and earlier). See the
 [examples](https://github.com/wadey/node-thrift/tree/master/examples) folder
 to see how to enable TBufferedTransport (added in 0.7.0).
 
-## Install
+## Installation
 
-    npm install thrift 
+    npm install helenus-thrift
+
+## Running Tests
+
+`grunt`
 
 ## Thrift Compiler
 
